@@ -1,0 +1,96 @@
+//return (
+  //     <SafeAreaView style={{flex: 1}}>
+  //       <ScrollView showsVerticalScrollIndicator={false}>
+  //         <View style={styles.header}>
+  //           <Text style={styles.headerText}>Explore Destinations </Text>
+  //           <SearchContainer />
+  //         </View>
+
+  //         <View>
+  //           <Text style={styles.activityText}>Hiking</Text>
+
+  //           {category.map((category) => {
+  //             // console.log(category.name)
+  //             (<Text>{category.name}</Text>)
+  //           })}
+  // <Text style={styles.activityText}>Here</Text>
+            // <View>
+            //   <FlatList
+            //     horizontal
+            //     showsHorizontalScrollIndicator={false}
+            //     data={places}
+            //     renderItem={({item}) => (
+            //       <Pressable
+            //         onPress={() =>
+            //           navigation.navigate('Details', {
+            //             image: item.images,
+            //             location: item.location,
+            //             name: item.name,
+            //             details: item.details
+            //           })
+            //         }>
+            //         <Card place={item} />
+            //       </Pressable>
+            //     )}
+            //   />
+            // </View>
+  //         </View>
+  //         <View>
+  //           <Text style={styles.activityText}>Adventures</Text>
+  //           <View>
+  //             <FlatList
+  //               horizontal
+  //               showsHorizontalScrollIndicator={false}
+  //               data={places}
+  //               renderItem={({item}) => <Card place={item} />}
+  //             />
+  //           </View>
+  //         </View>
+  //         <View>
+  //           <Text style={styles.activityText}>Historical Places</Text>
+  //           <View>
+  //             <FlatList
+  //               horizontal
+  //               showsHorizontalScrollIndicator={false}
+  //               data={places}
+  //               renderItem={({item}) => <Card place={item} />}
+  //             />
+  //           </View>
+  //         </View>
+  //         <View>
+  //           <Text style={styles.activityText}>Fun</Text>
+  //           <View>
+  //             <FlatList
+  //               horizontal
+  //               showsHorizontalScrollIndicator={false}
+  //               data={places}
+  //               renderItem={({item}) => <Card place={item} />}
+  //             />
+  //           </View>
+  //         </View>
+  //         <View>
+  //           <Text style={styles.activityText}>Party</Text>
+  //           <View>
+  //             <FlatList
+  //               horizontal
+  //               showsHorizontalScrollIndicator={false}
+  //               data={places}
+  //               renderItem={({item}) => <Card place={item} />}
+  //             />
+  //           </View>
+  //         </View>
+  //         <View style={{marginBottom: 100}}>
+  //           <Text style={styles.activityText}>Religious</Text>
+  //           <View>
+  //             <FlatList
+  //               horizontal
+  //               showsHorizontalScrollIndicator={false}
+  //               data={places}
+  //               renderItem={({item}) => <Card place={item} />}
+  //             />
+  //           </View>
+  //         </View>
+  //       </ScrollView>
+  //     </SafeAreaView>
+  //   );
+  

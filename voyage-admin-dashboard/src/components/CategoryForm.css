@@ -1,0 +1,31 @@
+div.card {
+    border: none;
+    box-shadow: 4px 4px 20px rgb(117, 120, 211, 0.1);
+  }
+  
+  #category-form {
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
+  
+  #category-form input {
+    border: 1px solid #7578d3;
+    width: 450px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+  
+  #category-name, #category-difficulty {
+    height: 50px;
+  }
+  
+  #category-form button {
+    background-color: #7578d3;
+    color: #ffffff;
+    font-weight: 400;
+    letter-spacing: 1px;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+  }
+  

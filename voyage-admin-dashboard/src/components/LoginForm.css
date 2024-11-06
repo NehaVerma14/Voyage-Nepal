@@ -1,0 +1,52 @@
+#login-form {
+    padding-top: 60px;
+    padding-bottom: 50px;
+    background-color: #F7F7FF;
+}
+
+#login-form div.card {
+    width: 600px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: none;
+    box-shadow: 4px 4px 20px rgb(117, 120, 211, 0.15);
+}
+
+#login-form img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid #7578D3;
+}
+
+#user-email, #user-password {
+    border: 1px solid #7578D3;
+    border-radius: 50px;
+    width: 475px;
+    height: 50px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.password-toggler {
+    position: absolute;
+    bottom: 200px;
+    right: 90px;
+    color: #7578D3;
+}
+
+.forget-password-text {
+    color: #7578D3;
+    cursor: pointer;
+}
+
+#login-form button {
+    background-color: #7578D3;
+    color: #FFFFFF;
+    font-weight: 700;
+    letter-spacing: 1px;
+    width: 475px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 20px;
+}

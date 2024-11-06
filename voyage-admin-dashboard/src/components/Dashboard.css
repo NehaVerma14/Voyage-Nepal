@@ -1,0 +1,16 @@
+#next-btn {
+    background-color: #7578D3;
+    border: 1px solid #7578D3;
+    width: 100px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+
+#prev-btn {
+    margin-left: 75%;
+}
+
+#prev-btn:hover {
+    background-color: #7578D3;
+    border: 1px solid #7578D3;
+}

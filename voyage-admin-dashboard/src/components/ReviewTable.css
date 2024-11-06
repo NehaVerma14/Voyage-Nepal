@@ -1,0 +1,12 @@
+#review-text {
+    width: 350px;
+    text-align: justify;
+}
+
+#review-action {
+    width: 220px;
+}
+
+.table td, .table th {
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+div.bg-white > .nav-link:hover {
+    background-color: rgb(117, 120, 211, 0.2);
+}
+
+div.bg-white p.nav-link {
+    color: #5A5C69 !important;
+    font-size: 14px;
+}

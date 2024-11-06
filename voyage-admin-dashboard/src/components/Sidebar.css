@@ -1,0 +1,13 @@
+.menu-icon {
+    color: #DBDDF8;
+}
+
+.sidebar-brand-icon > svg {
+    transform: rotate(-15deg);
+}
+
+.interface-text {
+    font-size: 0.8rem;
+    color: rgba(201, 196, 196, 0.945);
+    font-weight: 800;
+}
